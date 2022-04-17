@@ -19,12 +19,12 @@ SITE_TITLE = "TheWhistler"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = "TheWhistler"
 # (REQUIRED) Netlify site URL
-SITE_URL = "https://warm-muffin-28a742.netlify.app/"
+SITE_URL = "https://thewhistler.netlify.app/"
 # (Optional) Site Timezone
-TIMEZONE = "Asia/Hong_Kong"
+TIMEZONE = "Asia/Kolkata"
 ZOLA_VERSION = "0.15.2"
 # (Optional, default title) How to sort notes inside each section on the right sidebar ("date" or "title"). Subsections on side bar are sorted by title, the sort order cannot be changed.
-SORT_BY = "title"
+SORT_BY = "date"
 # (Optional) Google Analytics Measurement ID
 GANALYTICS = ""
 # (Optional, default true) Slugify URLs. Put "" to disable.
