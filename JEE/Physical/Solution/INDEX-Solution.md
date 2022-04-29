@@ -12,6 +12,7 @@
 - [[Molarity]]
 - [[Raoult's law]]
 - [[INDEX-Solution]]
+- [[IMP Points]]
 - [[Concentration]]
 - [[Colligative Properties]]
 - [[Relative lowering of vapour pressure(RLVP)]]

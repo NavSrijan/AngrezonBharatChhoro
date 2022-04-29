@@ -1,7 +1,7 @@
 ### Property 1
 The value of determinant remains unaltered, if the rows and columns are inter changed, i.e., if A is an n-rowed square matrix, then $|A| = |A^{'}|$
 
-<mark style="background: #FFB8EBA6;">Only if $\Delta$ is positive.</mark> 
+<mark class="hltr-red">Only if $\Delta$ is positive.</mark> 
 
 Example:
 $$
@@ -34,7 +34,8 @@ a_3 & b_{3}& c_3\\
 \end{vmatrix}$$
 Then, $$\boxed{D_2=-D_1}$$
 
-<mark style="background: #FFB8EBA6;">If 'n' rows are changed, then the resulting determinant</mark> $\boxed{\Delta^{1}=(-1)^{n}\Delta}$
+<mark class="hltr-cyan">If 'n' rows are changed, then the resulting determinant</mark>  $\boxed{\Delta^{1}=(-1)^{n}\Delta}$
+
 
 ### Property 3
 If a determinant has any two rows (or columns) identical or proportional, then its value is zero.
@@ -58,7 +59,7 @@ Ka_1 & Kb_1 & Kc_1 \\
 a_2 & b_2 & c_2 \\
 a_3 & b_3 & c_3 \\
 \end{vmatrix}$$
-then <mark style="background: #FFB8EBA6;">$D^{'}=KD$</mark> 
+then <mark class="hltr-orange">$D^{'}=KD$</mark> 
 
 ### Property 5
 If each element of any row (or column) can be expressed as a sum of two terms, then the determinant can be expressed as the sum of two determinants.
@@ -167,7 +168,7 @@ $$\boxed{\begin{vmatrix}
 $$
 
 
-Also, <mark style="background: #FFB86CA6;">GENERALLY</mark> 
+Also, <mark class="hltr-yellow">GENERALLY</mark> 
 $$|A|+|B|\neq |A+B|$$
 
 
@@ -192,7 +193,7 @@ $$\boxed{\text{Then, }D_2=D_1}$$
 #### NOTE:
 1. When a column (or row) is replaced by one which contains the elements of that column (or row) all multiplied by a number k, then the determinant is multiplied by k. #DIDNTGET
 2. When more than one column (or row) is changed by a succession of changes of this kind, at least one column(or row) must be left unaltered.
- <mark style="background: #ADCCFFA6;">Proof:</mark> 
+ <mark class="hltr-blue">Proof:</mark> 
 $$\Delta=\begin{vmatrix}
     a_{1}+kb_1       & b_{1}+mc_1 & c_{1}+na_1\\
     a_{2}+kb_2       & b_{2}+mc_2 & c_{2}+na_2\\
@@ -220,7 +221,7 @@ $$\Delta=(1+kmn)\begin{vmatrix}
     a_{3}       & b_{3} & c_{3}\\
 \end{vmatrix}
 $$
-Now <mark style="background: #FFB86CA6;">k, m or n has to be zero</mark> for $\Delta$ to have the same value as $\begin{vmatrix}a_{1}       & b_{1} & c_{1}\\ a_{2}       & b_{2} & c_{2}\\ a_{3}       & b_{3} & c_{3}\\ \end{vmatrix}$
+Now <mark class="hltr-purple">k, m or n has to be zero</mark> for $\Delta$ to have the same value as $\begin{vmatrix}a_{1}       & b_{1} & c_{1}\\ a_{2}       & b_{2} & c_{2}\\ a_{3}       & b_{3} & c_{3}\\ \end{vmatrix}$
 
 3. The presence of 1 as the leading element of $\Delta$ makes it easy to reduce the other elements of the first column to zero.
 Example:

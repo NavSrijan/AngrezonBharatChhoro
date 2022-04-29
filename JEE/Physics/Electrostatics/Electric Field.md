@@ -11,14 +11,14 @@ tags:
 
 >No charged particle experiences force due to its own electric field.
 
-### [[JEE/Physics/Electrostatics/Intensity of Electric Field]]
+### [[Intensity of Electric Field]]
 ### Electric Force on Charges in Electric Field
 $$\boxed{F=qE}$$
 Where, E = Electric Field Strength or Intensity 
 If the charge is negative only the direction will be different not the magnitude.
 ![[1.48(Physics).excalidraw]]
 
-### [[JEE/Physics/Electrostatics/Motion of Charge Particle in Electric Field]]
+### [[Motion of Charge Particle in Electric Field]]
 ### Electric field due to a point [[JEE/Physics/Electrostatics/Charge]] 
 Let a charge +Q is placed in space and we have to find the electric field at a distance r from it.
 $$E=\frac{F}{q_0}$$
