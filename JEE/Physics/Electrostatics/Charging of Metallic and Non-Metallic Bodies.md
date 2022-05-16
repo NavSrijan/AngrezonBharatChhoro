@@ -1,6 +1,9 @@
 ---
+date: 30-04-2022
 tags:
+- Physics
 - Electrostatics
+- Charge
 ---
 # Metals
 When charge is supplied to a metallic body, due to its conducting behaviour, the charges within the volume of the body repel each other and spread outward till these all charges reach the outer surface of the body as shown in the figure .

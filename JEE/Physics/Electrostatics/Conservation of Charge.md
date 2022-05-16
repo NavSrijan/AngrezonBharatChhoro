@@ -1,7 +1,9 @@
 ---
+date: 30-04-2022
 tags:
-- Electrostatics
 - Physics
+- Electrostatics
+- Charge
 ---
 It is considered for an isolated system, the net [[JEE/Physics/Electrostatics/Charge]] of the system is always constant.
 ==[[JEE/Physics/Electrostatics/Charge]] can neither be created nor be destroyed and this is called '==<mark style="background: #FFB8EBA6;">Conservation of [[JEE/Physics/Electrostatics/Charge]]</mark>=='.==

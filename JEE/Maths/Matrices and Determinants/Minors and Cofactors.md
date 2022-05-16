@@ -23,4 +23,3 @@ If elements of a row (or column) are multiplied with cofactors of any toher row 
 $$\Sigma Row_{i}\times \text{Cofactos of } Row_j=0$$
 
 $$\Sigma Column_{i}\times \text{Cofactos of } Column_j=0$$
-

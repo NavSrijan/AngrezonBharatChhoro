@@ -43,7 +43,7 @@ is -M effect and these groups are -M groups.
 - R/-M groups are meta directing with respect to benzene.
 #### Relative order of -M group:
 ![](https://i.imgur.com/HHnTaQ1.png)
-#### -m Groups 
+#### -M Groups 
 ![](https://i.imgur.com/PCcMxmP.png)
 
 ## Application of Mesomeric Effect

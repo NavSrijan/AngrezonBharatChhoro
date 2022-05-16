@@ -42,7 +42,7 @@ $E_{z}=\frac{-dV}{dz}$ (x, y $\Rightarrow$ constant)
 
 Question to help:
 ![](https://i.imgur.com/uiPZqvY.png) $\tag{question}$
-### Case 2: $\vec{E}$ is given and then V is asked 
+#### Case 2: $\vec{E}$ is given and then V is asked 
 $$\boxed{\Delta V=-\int_{A}^{B}{\vec{E}\,d \vec{S}}}$$
 In case of uniform field, it gets simplified to:
 

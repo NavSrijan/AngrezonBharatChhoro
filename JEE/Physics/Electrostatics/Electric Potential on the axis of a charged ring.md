@@ -1,4 +1,10 @@
-
+---
+date: 30-04-2022
+tags:
+- Physics
+- Electrostatics
+- Electric Potential
+---
 ![](https://i.imgur.com/0ZkcYBe.png)
 
 $dv=\frac{kdq}{r}$

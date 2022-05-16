@@ -1,10 +1,11 @@
 # INDEX
 - [[Lowest Locant Rule]]
-- [[Mesomeric Effect]]
 - [[Aromaticity]]
    - [[Annulene]]
 - [[Alkanes]]
 - [[INDEX-GOC]]
+- [[Carbocations]]
+- [[Mesomeric Effect]]
 - [[Functional Group]]
 - [[ShortNames]]
 - [[Resonance]]
@@ -12,3 +13,4 @@
 - [[Conjugation]]
 - [[Nomenclature]]
 - [[Lowest Sum Rule]]
+- [[Hyperconjugation]]

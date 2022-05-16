@@ -1,4 +1,0 @@
-- [[JEE/Maths/CONTENT|MATHS]]
-- [[JEE/Physics/CONTENT|PHYSICS]]
-- [[JEE/Chemistry/CONTENT|CHEMISTRY]]
-

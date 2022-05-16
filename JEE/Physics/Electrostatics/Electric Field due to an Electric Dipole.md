@@ -15,3 +15,5 @@ $\alpha=\tan^{-1}({\frac{E_{\theta}}{E_{r}}})=\tan^{-1}({\frac{\tan{\theta}}{2}}
 
 ![](https://i.imgur.com/9IAqAFk.png)
 
+Point on the axial line: $E_{axial}=k \frac{2P}{r^{3}}$
+Point on the equatorial plane: $E_{equatorial}=k \frac{P}{r^{3}}$
